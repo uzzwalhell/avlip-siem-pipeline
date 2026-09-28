@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Scan output / secrets — never commit real scan data or tokens
+scan_results*.json
+*.env
+.DS_Store
